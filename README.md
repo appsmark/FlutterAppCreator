@@ -1,0 +1,2 @@
+# FlutterAppCreator
+Create template app
